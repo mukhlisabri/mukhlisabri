@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Future Penetration Tester
 -------------------------
 
-I am currently 1st year student majoring in Computer Science (Network & Security) at University Technology Malaysia (UTM) Johor Bahru
+I am currently 2st year student majoring in Computer Science (Network & Security) at University Technology Malaysia (UTM) Johor Bahru
 
 * 🌍  I'm based in Shah Alam
 * ✉️  You can contact me at [muhammadmukhlis@graduate.utm.my](mailto:muhammadmukhlis@graduate.utm.my)
