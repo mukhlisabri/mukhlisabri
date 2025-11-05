@@ -1,15 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Mukhlis
 =====================================================================================================================================
 
-Future Penetration Tester
--------------------------
-
-I am currently 1st year student majoring in Computer Science (Network & Security) at University Technology Malaysia (UTM) Johor Bahru
-
-* 🌍  I'm based in Shah Alam
-* ✉️  You can contact me at [muhammadmukhlis@graduate.utm.my](mailto:muhammadmukhlis@graduate.utm.my)
-* 🧠  I'm learning React Native
-
 ### Skills
 
 
